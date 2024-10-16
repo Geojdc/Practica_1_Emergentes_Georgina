@@ -1,0 +1,21 @@
+ body .footer {
+
+    font-family: Arial, sans-serif;
+    background-color: #151516; 
+    padding: 10px;
+    margin: 10px;
+    position: absolute;
+    top: 70%;
+    left: 0%;
+    color: white;
+    
+}
+.footer img{
+    max-width: 110px;
+    float: left;
+    margin-left: 10px;
+    border-radius: 50%;
+    
+}
+
+

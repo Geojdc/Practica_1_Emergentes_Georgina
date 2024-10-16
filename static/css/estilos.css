@@ -1,0 +1,79 @@
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+} */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding:0;
+    background-image: url('../Imagenes_trueno/trueno6.jfif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.header{
+    margin: 0;
+    padding: 150px;
+    max-width: 800px;
+    float: center;
+    margin-left: 270px;
+    background-image: url('../Imagenes_trueno/trueno16.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  
+}
+.nav {
+    /* overflow: hidden; */
+    /* background-color: #5e51ae; */
+    background-color: rgba(255, 255, 255, 0.5);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+   float:right;
+    border-radius: 10px;
+    overflow: hidden;
+    color:aliceblue;
+    
+}
+.nav a {
+    float: left;
+    display: block;
+    color: rgb(42, 38, 38);
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+.nav a:hover {
+    background-color: #50a1df;
+    color: rgb(249, 248, 248);
+}
+.main {
+   padding: 120px;
+   color: rgb(249, 248, 248);
+}
+.main img{
+    max-width: 140px;
+    float: right;
+    margin-left: 15px;
+    border-radius: 20%;
+}
+
+
+.footer {
+    background-color: #151516; 
+    padding: 8px;
+    margin: 0px;
+    text-align: center;
+    color: white;
+}
+.footer img{
+    max-width: 110px;
+    float: left;
+    margin-left: 10px;
+    border-radius: 50%;
+    
+}
+
+
